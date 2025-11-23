@@ -1,14 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <Authors>Gabriel Bider, Nils Lück, Michael Altmann</Authors>
     <PackageTags>option optional some none maybe either null monad monadic result results resultful fluentresults functional pipeline pipelines</PackageTags>
     <PackageProjectUrl>https://github.com/silkfire/Ultimately</PackageProjectUrl>
     <Description>A robust option type for C#.</Description>
-    <Version>3.0.0</Version>
-    <AssemblyVersion>3.0.0.0</AssemblyVersion>
-    <PackageReleaseNotes>3.0.0 Target .NET 6</PackageReleaseNotes>
+    <Version>4.0.0</Version>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+    <PackageReleaseNotes>4.0.0 Target .NET 10</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
